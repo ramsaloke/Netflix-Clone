@@ -9,7 +9,7 @@ This is a Netflix Clone project built with [mention your tech stack, e.g., React
 - Movie trailer playback  
 
 ## Live Demo  
-[Netflix Clone Live Link](https://netflix-clone-iota-gold.vercel.app/login) 
+[Netflix Clone Live Link] https://netflix-clone-levkj0ngb-ram-salokes-projects.vercel.app/login
 
 **Note:** This Netflix Clone project may trigger a warning from Google about potential dangers. If you encounter a warning message when clicking the link, click on **"Details"** and then **"Visit this unsafe site"** to proceed to the project.  
 
